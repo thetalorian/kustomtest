@@ -1,0 +1,4 @@
+secretGenerator:
+- name: mysecrets
+  envs:
+  - secretlist.env
